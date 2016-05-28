@@ -12,5 +12,4 @@ I have also added custom activities to include user preferred options. For sampl
 Feel free to add any correction/enhancements to this project through pull requests.
 
 I have also written a blog post on how to implement `UIActivityViewController` along with custom activities. 
-###You can refer to [Implementing UIActivityViewController](https://jayeshkawli.ghost.io/using-uiactivityviewcontroller-swift/) 
-for more information.
+###You can also refer to [Implementing UIActivityViewController](https://jayeshkawli.ghost.io/using-uiactivityviewcontroller-swift/) for more information.
